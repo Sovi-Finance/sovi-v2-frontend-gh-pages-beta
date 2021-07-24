@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.b3483e45.chunk.js": "/static/js/0.b3483e45.chunk.js",
-    "main.css": "/static/css/main.63220c77.chunk.css",
-    "main.js": "/static/js/main.c72d8980.chunk.js",
+    "main.css": "/static/css/main.b1328381.chunk.css",
+    "main.js": "/static/js/main.41e09463.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.5a5fc6f2.js",
     "static/css/3.9ad4f97d.chunk.css": "/static/css/3.9ad4f97d.chunk.css",
     "static/js/3.07c3620c.chunk.js": "/static/js/3.07c3620c.chunk.js",
@@ -52,7 +52,7 @@
     "static/media/battle5_details.da7c1f2f.png": "/static/media/battle5_details.da7c1f2f.png",
     "static/media/battle5_story.d2a0a548.png": "/static/media/battle5_story.d2a0a548.png",
     "static/media/battle6.013e2507.png": "/static/media/battle6.013e2507.png",
-    "static/media/battle6_bg.374f9c3e.png": "/static/media/battle6_bg.374f9c3e.png",
+    "static/media/Home.scss": "/static/media/battle6_bg.374f9c3e.png",
     "static/media/battle6_details.51020ab3.png": "/static/media/battle6_details.51020ab3.png",
     "static/media/battle6_story.77bc8705.png": "/static/media/battle6_story.77bc8705.png",
     "static/media/battle7.87f0d20c.png": "/static/media/battle7.87f0d20c.png",
@@ -64,13 +64,12 @@
     "static/media/battle8_bg.72e746b6.png": "/static/media/battle8_bg.72e746b6.png",
     "static/media/battle8_details.227b157e.png": "/static/media/battle8_details.227b157e.png",
     "static/media/battle8_story.3fc2449e.png": "/static/media/battle8_story.3fc2449e.png",
+    "static/media/battle9_bg.2c335a5e.png": "/static/media/battle9_bg.2c335a5e.png",
     "static/media/bazaar-title-exchange-card.6a692dac.png": "/static/media/bazaar-title-exchange-card.6a692dac.png",
     "static/media/bazaar-title-exchange.5f6c81a4.png": "/static/media/bazaar-title-exchange.5f6c81a4.png",
     "static/media/bg-blur.66e8d8b8.png": "/static/media/bg-blur.66e8d8b8.png",
     "static/media/ExchangeSoviSuccess.scss": "/static/media/bg-claim-sight2.21d1f90e.png",
     "static/media/bg-dark.66e8d8b8.png": "/static/media/bg-dark.66e8d8b8.png",
-    "static/media/Home.scss": "/static/media/bg-home.2a1a05d1.png",
-    "static/media/bg-index.c16d3611.png": "/static/media/bg-index.c16d3611.png",
     "static/media/blingbling.22e9cd28.png": "/static/media/blingbling.22e9cd28.png",
     "static/media/card_animation.3ad1c1e1.mp4": "/static/media/card_animation.3ad1c1e1.mp4",
     "static/media/claim-title.cdf290b0.png": "/static/media/claim-title.cdf290b0.png",
@@ -102,7 +101,7 @@
     "static/js/runtime-main.5a5fc6f2.js",
     "static/css/3.9ad4f97d.chunk.css",
     "static/js/3.07c3620c.chunk.js",
-    "static/css/main.63220c77.chunk.css",
-    "static/js/main.c72d8980.chunk.js"
+    "static/css/main.b1328381.chunk.css",
+    "static/js/main.41e09463.chunk.js"
   ]
 }
