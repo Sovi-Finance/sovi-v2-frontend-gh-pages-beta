@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.c94aa9a4.chunk.js": "/static/js/0.c94aa9a4.chunk.js",
-    "main.css": "/static/css/main.52ebb7b8.chunk.css",
-    "main.js": "/static/js/main.376cc8c9.chunk.js",
+    "main.css": "/static/css/main.f0f63bd0.chunk.css",
+    "main.js": "/static/js/main.3a07a1e1.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.010acdcd.js",
     "static/css/3.9ad4f97d.chunk.css": "/static/css/3.9ad4f97d.chunk.css",
     "static/js/3.924084f9.chunk.js": "/static/js/3.924084f9.chunk.js",
@@ -79,7 +79,7 @@
     "static/media/bazaar-title-exchange-card.5a2ba00e.png": "/static/media/bazaar-title-exchange-card.5a2ba00e.png",
     "static/media/bazaar-title-exchange-vi.895c49a2.png": "/static/media/bazaar-title-exchange-vi.895c49a2.png",
     "static/media/bazaar-title-exchange.147c39a2.png": "/static/media/bazaar-title-exchange.147c39a2.png",
-    "static/media/bg-about-mobile.7f965d2c.png": "/static/media/bg-about-mobile.7f965d2c.png",
+    "static/media/bg-about-mobile.8b14e2ec.png": "/static/media/bg-about-mobile.8b14e2ec.png",
     "static/media/bg-about.63a0fe0c.png": "/static/media/bg-about.63a0fe0c.png",
     "static/media/bg-blur.66e8d8b8.png": "/static/media/bg-blur.66e8d8b8.png",
     "static/media/bg-dark.be86c526.png": "/static/media/bg-dark.be86c526.png",
@@ -109,7 +109,7 @@
     "static/media/icon-card5.711ac25d.png": "/static/media/icon-card5.711ac25d.png",
     "static/media/icon-card6.45727fe7.png": "/static/media/icon-card6.45727fe7.png",
     "static/media/icon-sovi.47d9698f.png": "/static/media/icon-sovi.47d9698f.png",
-    "static/media/index-new-bg-mobile.fb068c64.png": "/static/media/index-new-bg-mobile.fb068c64.png",
+    "static/media/index-new-bg-mobile.a606a5ef.png": "/static/media/index-new-bg-mobile.a606a5ef.png",
     "static/media/index-new-bg.8abee639.png": "/static/media/index-new-bg.8abee639.png",
     "static/media/metamask-fox.7db94670.svg": "/static/media/metamask-fox.7db94670.svg",
     "static/media/Story.scss": "/static/media/paper.0e34239e.png",
@@ -134,7 +134,7 @@
     "static/js/runtime-main.010acdcd.js",
     "static/css/3.9ad4f97d.chunk.css",
     "static/js/3.924084f9.chunk.js",
-    "static/css/main.52ebb7b8.chunk.css",
-    "static/js/main.376cc8c9.chunk.js"
+    "static/css/main.f0f63bd0.chunk.css",
+    "static/js/main.3a07a1e1.chunk.js"
   ]
 }
