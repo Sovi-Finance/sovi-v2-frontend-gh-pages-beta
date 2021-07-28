@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.c94aa9a4.chunk.js": "/static/js/0.c94aa9a4.chunk.js",
-    "main.css": "/static/css/main.b1874258.chunk.css",
-    "main.js": "/static/js/main.989bd324.chunk.js",
+    "main.css": "/static/css/main.2180bd37.chunk.css",
+    "main.js": "/static/js/main.b1ea9ed2.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.010acdcd.js",
     "static/css/3.9ad4f97d.chunk.css": "/static/css/3.9ad4f97d.chunk.css",
     "static/js/3.924084f9.chunk.js": "/static/js/3.924084f9.chunk.js",
@@ -29,6 +29,7 @@
     "static/media/audio_charon.7f8f7f22.mp3": "/static/media/audio_charon.7f8f7f22.mp3",
     "static/media/audio_filda.e42c6645.mp3": "/static/media/audio_filda.e42c6645.mp3",
     "static/media/audio_over.dd9300de.mp3": "/static/media/audio_over.dd9300de.mp3",
+    "static/media/avatar.67305b17.png": "/static/media/avatar.67305b17.png",
     "static/media/battle0.f4cf50ae.png": "/static/media/battle0.f4cf50ae.png",
     "static/media/battle1.736fe489.png": "/static/media/battle1.736fe489.png",
     "static/media/battle1_bg.3de692d2.png": "/static/media/battle1_bg.3de692d2.png",
@@ -134,7 +135,7 @@
     "static/js/runtime-main.010acdcd.js",
     "static/css/3.9ad4f97d.chunk.css",
     "static/js/3.924084f9.chunk.js",
-    "static/css/main.b1874258.chunk.css",
-    "static/js/main.989bd324.chunk.js"
+    "static/css/main.2180bd37.chunk.css",
+    "static/js/main.b1ea9ed2.chunk.js"
   ]
 }
