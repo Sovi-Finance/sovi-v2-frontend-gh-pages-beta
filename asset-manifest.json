@@ -2,7 +2,7 @@
   "files": {
     "static/js/0.c94aa9a4.chunk.js": "/static/js/0.c94aa9a4.chunk.js",
     "main.css": "/static/css/main.2180bd37.chunk.css",
-    "main.js": "/static/js/main.5c847117.chunk.js",
+    "main.js": "/static/js/main.991dd8d2.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.010acdcd.js",
     "static/css/3.9ad4f97d.chunk.css": "/static/css/3.9ad4f97d.chunk.css",
     "static/js/3.924084f9.chunk.js": "/static/js/3.924084f9.chunk.js",
@@ -80,7 +80,7 @@
     "static/media/bazaar-title-exchange-card.5a2ba00e.png": "/static/media/bazaar-title-exchange-card.5a2ba00e.png",
     "static/media/bazaar-title-exchange-vi.895c49a2.png": "/static/media/bazaar-title-exchange-vi.895c49a2.png",
     "static/media/bazaar-title-exchange.147c39a2.png": "/static/media/bazaar-title-exchange.147c39a2.png",
-    "static/media/bg-about-mobile.8b14e2ec.png": "/static/media/bg-about-mobile.8b14e2ec.png",
+    "static/media/bg-about-mobile.78ca04b3.png": "/static/media/bg-about-mobile.78ca04b3.png",
     "static/media/bg-about.fc631e24.png": "/static/media/bg-about.fc631e24.png",
     "static/media/bg-blur.66e8d8b8.png": "/static/media/bg-blur.66e8d8b8.png",
     "static/media/bg-dark.be86c526.png": "/static/media/bg-dark.be86c526.png",
@@ -136,6 +136,6 @@
     "static/css/3.9ad4f97d.chunk.css",
     "static/js/3.924084f9.chunk.js",
     "static/css/main.2180bd37.chunk.css",
-    "static/js/main.5c847117.chunk.js"
+    "static/js/main.991dd8d2.chunk.js"
   ]
 }
