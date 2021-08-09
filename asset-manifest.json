@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.b1d69969.chunk.js": "/static/js/0.b1d69969.chunk.js",
-    "main.css": "/static/css/main.5dbf6e57.chunk.css",
-    "main.js": "/static/js/main.3d838cea.chunk.js",
+    "main.css": "/static/css/main.770208fb.chunk.css",
+    "main.js": "/static/js/main.590efcd6.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.7570e0fc.js",
     "static/css/3.9ad4f97d.chunk.css": "/static/css/3.9ad4f97d.chunk.css",
     "static/js/3.b2bdc71e.chunk.js": "/static/js/3.b2bdc71e.chunk.js",
@@ -23,7 +23,6 @@
     "static/media/Button.7fb3fab0.png": "/static/media/Button.7fb3fab0.png",
     "static/media/EgyptianTypeBeatPharaoh.4470e463.mp3": "/static/media/EgyptianTypeBeatPharaoh.4470e463.mp3",
     "static/media/GuardianofthePurpleNebula.28cebb77.mp3": "/static/media/GuardianofthePurpleNebula.28cebb77.mp3",
-    "static/media/Honor-coin.a16d01ca.png": "/static/media/Honor-coin.a16d01ca.png",
     "static/media/Sovi-ic.a9100de0.png": "/static/media/Sovi-ic.a9100de0.png",
     "static/media/index.css": "/static/media/segoeui.d121d98f.otf",
     "static/media/audio.3c4d15cb.mp3": "/static/media/audio.3c4d15cb.mp3",
@@ -87,7 +86,7 @@
     "static/media/bg-dark.be86c526.png": "/static/media/bg-dark.be86c526.png",
     "static/media/Home.scss": "/static/media/new-bg-home.7c9da194.png",
     "static/media/blingbling.59623447.png": "/static/media/blingbling.59623447.png",
-    "static/media/card_animation.3ad1c1e1.mp4": "/static/media/card_animation.3ad1c1e1.mp4",
+    "static/media/card_animation.930fa69a.webm": "/static/media/card_animation.930fa69a.webm",
     "static/media/claim-title-vi.ebcbdae2.png": "/static/media/claim-title-vi.ebcbdae2.png",
     "static/media/claim-title.1974b9a3.png": "/static/media/claim-title.1974b9a3.png",
     "static/media/congratulation-vi.296a0382.png": "/static/media/congratulation-vi.296a0382.png",
@@ -139,7 +138,7 @@
     "static/js/runtime-main.7570e0fc.js",
     "static/css/3.9ad4f97d.chunk.css",
     "static/js/3.b2bdc71e.chunk.js",
-    "static/css/main.5dbf6e57.chunk.css",
-    "static/js/main.3d838cea.chunk.js"
+    "static/css/main.770208fb.chunk.css",
+    "static/js/main.590efcd6.chunk.js"
   ]
 }
